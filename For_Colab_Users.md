@@ -1,5 +1,7 @@
 # Colab Users Instructions
 
+For Colab users import the labs on the colab and append the following instructions before the first python code
+
 ```bash
 %cd /content
 !git clone https://github.com/fvicini/CppToPython.git
